@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>我的第一個網頁</title>
+</head>
+<body>
+    <h3>測試網頁</h3>
+    <form action="/hello">
+        請輸入姓氏<input name="name" />
+        請輸入名字 <input name="secondname" />
+        <button>前往提示框</button>
+    </form>
+    <hr/>
+    <img src="http://127.0.0.1:3000/static/testpicture.jpg" />
+</body>
+</html>
